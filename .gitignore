@@ -1,0 +1,5 @@
+lib/python/__pycache__/
+myvenv/
+venv/
+.idea/
+__pycache__/
